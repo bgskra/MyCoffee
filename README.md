@@ -9,5 +9,8 @@ MyCoffee merupakan aplikasi yang bertujuan untuk memudahkan pelayanan pemesanan 
 
 # Mock Up Application
 
+1. Gambar Tampilan Awal pada Aplikasi MyCoffee
+![Home] https://user-images.githubusercontent.com/22759379/79558199-fd078180-80cd-11ea-8214-199c2931a41b.PNG
 
-
+2. Pada tampilan "Nama", menggunakan TextInput. Pada "Pilih Kopi" menggunakan Button Radio untuk memilih salah satu pilihan dan terdapat Select yang merupakan Pilihan tambahan yang berisi Gula 2, Gula 3, dan Cream sebagai Topping. Pada "Harga" menampilkan Harga setelah melakukan Pilihan pada "Pilih Kopi". Pada Button "Pesan sekarang" untuk menyelesaikan pesanan.
+![home]
