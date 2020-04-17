@@ -16,3 +16,5 @@ MyCoffee merupakan aplikasi yang bertujuan untuk memudahkan pelayanan pemesanan 
 2. Pada tampilan "Nama", menggunakan TextInput. Pada "Pilih Kopi" menggunakan Button Radio untuk memilih salah satu pilihan dan terdapat Select yang merupakan Pilihan tambahan yang berisi Gula 2, Gula 3, dan Cream sebagai Topping. Pada "Harga" menampilkan Harga setelah melakukan Pilihan pada "Pilih Kopi". Pada Button "Pesan sekarang" untuk menyelesaikan pesanan.
 
 ![home](https://user-images.githubusercontent.com/22759379/79558217-02fd6280-80ce-11ea-91a1-c14d9e48505d.PNG)
+
+3. Setelah melakukan Pesanan, maka Aplikasi akan menampilkan Notifikasi berupa Konfirmasi Pembayaran yang berisi Nomor Pesanan untuk ditujukan kepada Kasir.
